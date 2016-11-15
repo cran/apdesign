@@ -1,0 +1,13 @@
+ad93a0ffb1d6eef73deb31bbf1cadd25 *DESCRIPTION
+cbfbb984e002ac06215aa5fe9c9dde9b *NAMESPACE
+82e102c279425f31420c3321fcd3c2b1 *NEWS.md
+12ad55eb7dab674b91e38daa0ea3ce7f *R/data.R
+290a06ea480f2b83a5b7df9e2ba6da11 *R/fun_apdesign.R
+9d94226227714d2a345fd5c4c5c6a540 *R/fun_apdesign_i.R
+0e07d3f2726aa4fbaadba0aa84031774 *README.md
+8f55fa8347449e03e55033ccb9c45665 *data/indv_change.RData
+beaa22a76268479415c5b9496a1ddff0 *data/mean_change.RData
+d5b5e341badeb59edf33365b37d017f9 *man/apdesign.Rd
+6145989353f4dfce3fea49af0f300a23 *man/apdesign_i.Rd
+db72fab4c929b0b6ce98d05803a3f4d4 *man/indv_change.Rd
+86faab1f6d62ea2d9451856c3dabde28 *man/mean_change.Rd
